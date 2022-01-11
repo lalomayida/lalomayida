@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lalo Mayida</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-- 🌱 I’m currently learning **Flutter, Swift, Angular**
+- 🌱 I’m currently learning **Javascript, Mongo & Angular**
 
 - 💬 Ask me about **Angular, Business Intelligence or UI/UX**
 
