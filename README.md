@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **lalomayida@outlook.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1m3lebJjGChLV4yFVwTAPMNRaWN7zLAZd/view?usp=sharing)
+- 📄 Know about my experiences -> [CV](https://drive.google.com/file/d/1m3lebJjGChLV4yFVwTAPMNRaWN7zLAZd/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
